@@ -37,8 +37,8 @@ $ sudo apt-get install ros-noetic-robot-localization
 ```
 ## 2. Launch ROS
 if you would like to create the map
-```
-    roslaunch realsense2_camera opensource_tracking.launch
+```bash
+roslaunch realsense2_camera opensource_tracking.launch
 ```
 
 ## 3. Sensor Setup
